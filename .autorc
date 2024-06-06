@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "rotelecom",
+  "repo": "container-o2n-m48",
+  "name": "rotelecom",
+  "email": "nocrotelecom@gmail.com",
+}
